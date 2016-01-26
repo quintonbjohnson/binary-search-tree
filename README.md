@@ -1,7 +1,7 @@
 Binary Search Tree
 ===================
 
-By Quinton Johnson
+By QuintonJ
 
 A basic implementation of a binary search tree. Includes the use of ordering, adding, removing, and others.
 
